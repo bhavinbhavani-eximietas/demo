@@ -1,1 +1,10 @@
 =======================
+=======
+This is a new feature
+This is a (main) branch.
+
+Adding git stash ...
+add feature
+
+:
+new feature2 is applied to main.
