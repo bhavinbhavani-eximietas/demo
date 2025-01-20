@@ -1,3 +1,5 @@
+push to both repo - origin and backup 
+
 =======================
 =======
 Git Fetch command 
